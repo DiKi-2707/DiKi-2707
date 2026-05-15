@@ -1,6 +1,15 @@
 ## Привет！ 👋
 Меня зовут Эдуард, я QA Engineer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=Postman+•+Kafka+•+SQL)](https://git.io/typing-svg)
+
+QA — это не только про поиск багов. Для меня это прежде всего про **комфортную команду** и **выстроенный процесс**, где времени уходит меньше, а результатов больше.
+
+Люблю копаться в API, смотреть логи, проверять интеграции.  
+В автоматизацию смотрю с интересом — пока пишу простые тесты, но планирую углубляться.
+
+Я лютый перфекционист. Поэтому если берусь за задачу — делаю так, чтобы не возвращаться к ней по десять раз.
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=DiKi-2707)
