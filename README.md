@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=👋+Привет!+Меня+зовут+Эдуард;QA+Engineer;Регресс+•+Функциональное+•+Логи)](https://git.io/typing-svg)
 
-<kbd>📌 О подходе</kbd>
+<h3 style="color: #EE8838;">📌 О подходе</h3>
 Ценю выстроенные процессы — когда времени уходит мало, а результат предсказуем. Комфортная работа в команде считаю важным условием.
 
 <h3 style="color: #EE8838;">🎯 Основные направления</h3>
