@@ -74,7 +74,7 @@
 
 ## 🎒 Образование
 [<img src="/sertifikat.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/DiKi-2707/DiKi-2707/refs/heads/main/sertifikat.png)
-[<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/DiKi-2707/DiKi-2707/refs/heads/main/stepik.png)
+[<img src="/stepik.png" width="300px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/DiKi-2707/DiKi-2707/refs/heads/main/stepik.png)
 
 
 <br>
