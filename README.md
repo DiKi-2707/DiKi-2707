@@ -66,6 +66,7 @@
     <td><img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" width="40" height="40"/><br/>ClickUp</td>
     <td><img src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="40" height="40"/><br/>Test IT</td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" width="40" height="40"/><br/>Notion</td>
+    <td><img src="https://images.icon-icons.com/3053/PNG/96/obsidian_macos_bigsur_icon_189888.png" width="40" height="40"/><br/>Obsidian</td>
   </tr>
 </table>
 
